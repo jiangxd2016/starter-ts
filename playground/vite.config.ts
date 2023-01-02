@@ -45,8 +45,4 @@ export default defineConfig({
     Unocss(),
   ],
 
-  // https://github.com/vitest-dev/vitest
-  test: {
-    environment: 'jsdom',
-  },
 });
