@@ -27,7 +27,7 @@ importers:
   playground:
     specifiers:
       '@estjs/eslint-config': ^0.3.11
-      '@iconify-json/carbon': ^1.1.11
+      '@iconify-json/carbon': ^1.1.13
       '@types/node': ^17.0.45
       '@unocss/reset': ^0.29.6
       '@vitejs/plugin-vue': ^3.2.0
@@ -52,7 +52,7 @@ importers:
       vue-router: 4.1.6_vue@3.2.45
     devDependencies:
       '@estjs/eslint-config': 0.3.11_iukboom6ndih5an6iafl45j2fe
-      '@iconify-json/carbon': 1.1.11
+      '@iconify-json/carbon': 1.1.13
       '@types/node': 17.0.45
       '@unocss/reset': 0.29.6
       '@vitejs/plugin-vue': 3.2.0_vite@3.2.5+vue@3.2.45
@@ -522,8 +522,8 @@ packages:
     resolution: {integrity: sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==}
     dev: true
 
-  /@iconify-json/carbon/1.1.11:
-    resolution: {integrity: sha512-IHkHSNmTM6q6b8DuKSzd+AEMYPZywSxcb+37kZU7ywtcwsGen3aVEvWFykopIWjjwj3xdZ/5UdwJRqhZDQMlNg==}
+  /@iconify-json/carbon/1.1.13:
+    resolution: {integrity: sha512-qPR7n3JkCqIrvjxnyUPIejhn0wrZJsLmija59U/zwFm5SMOITCfLx+Jp6VecnL0Sm76zRE5Kv54VzolQljB97A==}
     dependencies:
       '@iconify/types': 2.0.0
     dev: true

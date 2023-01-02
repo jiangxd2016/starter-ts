@@ -5,6 +5,7 @@ export default defineConfig({
     coverage: {
       exclude: ['index.ts']
     },
+    exclude: ['playground/**/*', 'node_modules/**/*'],
     globals: true,
   },
 });
