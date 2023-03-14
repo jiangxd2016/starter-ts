@@ -40,7 +40,7 @@
     "dev": "tsup --watch",
     "build": "tsup",
     "lint": "eslint --cache --fix \"./src/*.{ts,tsx,js,vue}\"",
-    "test": "vitest",
+    "test": "vitest -r test",
     "play": "pnpm run -C playground dev",
     "play:build": "pnpm run -C playground build",
     "play:test": "pnpm run -C playground test -u",
@@ -52,6 +52,7 @@
   },
   "devDependencies": {
     "@estjs/eslint-config": "^0.3.16",
+    "@vitest/coverage-c8": "^0.29.2",
     "bumpp": "^9.0.0",
     "c8": "^7.13.0",
     "dayjs": "^1.11.7",
