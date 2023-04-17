@@ -10,12 +10,12 @@
     "test": "vitest"
   },
   "dependencies": {
-    "@vueuse/core": "^9.13.0",
+    "@vueuse/core": "^10.0.2",
     "vue": "^3.2.47",
     "vue-router": "^4.1.6"
   },
   "devDependencies": {
-    "@estjs/eslint-config": "^0.6.5",
+    "@estjs/eslint-config": "^0.6.7",
     "@iconify-json/carbon": "^1.1.16",
     "@types/node": "^18.15.11",
     "@unocss/reset": "^0.51.4",
@@ -26,7 +26,7 @@
     "jsdom": "^21.1.1",
     "typescript": "^5.0.4",
     "unocss": "^0.51.4",
-    "unplugin-auto-import": "^0.15.2",
+    "unplugin-auto-import": "^0.15.3",
     "unplugin-vue-components": "^0.24.1",
     "vite": "^4.2.1",
     "vite-plugin-pages": "^0.29.0",
